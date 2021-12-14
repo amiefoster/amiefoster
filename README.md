@@ -1,9 +1,7 @@
 ### Hi there 👋 I'm Amie 👩‍💻 
 
-<!--
-**amiefoster/amiefoster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Basic Good Vibes Email Header (1)](https://user-images.githubusercontent.com/86327800/146097584-2297914b-4699-46fd-a689-9fb5d6ae91ba.png)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
