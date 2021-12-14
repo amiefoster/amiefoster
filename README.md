@@ -1,6 +1,5 @@
-### Hi there 👋 I'm Amie 👩‍💻 
+![Basic Good Vibes Email Header (2)](https://user-images.githubusercontent.com/86327800/146097937-2ebb4107-0b8a-42f4-b5d1-7bac6cbf5431.png)
 
-![Basic Good Vibes Email Header (1)](https://user-images.githubusercontent.com/86327800/146097584-2297914b-4699-46fd-a689-9fb5d6ae91ba.png)
 
 
 - 🔭 I’m currently working on ...
