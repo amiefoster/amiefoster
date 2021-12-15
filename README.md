@@ -1,5 +1,5 @@
 
-![Basic Good Vibes Email Header (4)](https://user-images.githubusercontent.com/86327800/146098392-b6f12234-cc4a-4761-b2f4-31a9cae65b4d.png)
+![Basic Good Vibes Email Header (6)](https://user-images.githubusercontent.com/86327800/146240591-f426fdaa-e9f0-4a39-a8dc-07e237d6bb3b.png)
 
 
 
