@@ -2,8 +2,18 @@
 ![Basic Good Vibes Email Header (4)](https://user-images.githubusercontent.com/86327800/146098392-b6f12234-cc4a-4761-b2f4-31a9cae65b4d.png)
 
 
+
+I always had a curiosity for coding and began teaching myself online as a fun hobby when I quickly realized I wanted to pursue it as a career. 🧐 I found my passion for coding in the combination of math/science and creativity. 💻
+
+I am a recent graduate of the Software Engineering Bootcamp at Flatiron School, where I spent 15 weeks refining my skills as a full-stack developer. I am eager to find my place on a collaborative team of talented individuals where I can continue expanding my knowledge and developing new skills. 👩‍💻 
+
+When I'm not coding new projects, you can find me hiking and exploring nature 🥾 , curled up reading a mystery novel 📚 , or listening to a true-crime podcast 🕵️‍♀️.
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+    Redux
+    Data Structures
+    Algorithms
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
