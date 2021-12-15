@@ -22,4 +22,3 @@ When I'm not coding new projects, you can find me hiking and exploring nature ðŸ
     - She / Her
 - âš¡ Fun fact: ...
     - I've summited Mt. Whitney (the highest mountain in the contiguous United States)! 
--->
