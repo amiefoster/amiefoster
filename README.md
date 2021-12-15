@@ -1,5 +1,5 @@
+![Basic Good Vibes Email Header](https://user-images.githubusercontent.com/86327800/146246298-bac8cd99-8b3a-493f-8a94-586c2b01a3e3.gif)
 
-![Basic Good Vibes Email Header (6)](https://user-images.githubusercontent.com/86327800/146240591-f426fdaa-e9f0-4a39-a8dc-07e237d6bb3b.png)
 
 I am a recent graduate of the Software Engineering Bootcamp at Flatiron School, where I spent 15 weeks refining my skills as a full-stack developer. I am eager to find my place on a collaborative team of talented individuals where I can continue expanding my knowledge and developing new skills. 👩‍💻 
 
