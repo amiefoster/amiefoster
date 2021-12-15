@@ -1,4 +1,5 @@
-![Basic Good Vibes Email Header (3)](https://user-images.githubusercontent.com/86327800/146098116-97c2e908-dc1a-48a5-a306-d8779d492510.png)
+
+![Basic Good Vibes Email Header (4)](https://user-images.githubusercontent.com/86327800/146098392-b6f12234-cc4a-4761-b2f4-31a9cae65b4d.png)
 
 
 - 🔭 I’m currently working on ...
