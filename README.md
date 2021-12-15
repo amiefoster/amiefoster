@@ -5,18 +5,16 @@ I am a recent graduate of the Software Engineering Bootcamp at Flatiron School, 
 
 When I'm not coding new projects, you can find me hiking and exploring nature 🥾 , curled up reading a mystery novel 📚 , or listening to a true-crime podcast 🕵️‍♀️.
 
+   - <a href="https://www.linkedin.com/in/amie-n-foster/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg"/></a>
+            <a href='https://medium.com/@amie.n.foster'><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/medium.svg" /></a>
+            <a href='mailto:amie.n.foster@gmail.com'><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" /></a>
+
 - 🔭 I’m currently working on ...
     - My Portfolio
 - 🌱 I’m currently learning ...
     - Redux
     - Data Structures
     - Algorithms
-- 🤔 I’m looking for help with ...
-    - Algos
-- 📫 How to reach me: ...
-    - <a href="https://www.linkedin.com/in/amie-n-foster/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg"/></a>
-            <a href='https://medium.com/@amie.n.foster'><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/medium.svg" /></a>
-            <a href='mailto:amie.n.foster@gmail.com'><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" /></a>
 - 👧 Pronouns: ...
     - She / Her
 - ⚡ Fun fact: ...
