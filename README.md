@@ -1,6 +1,12 @@
-Hi, I'm Amie 👋
+##Hi, I'm Amie 👋
 
-Software Engineer 👩‍💻 
+#Software Engineer 👩‍💻 
+* Javascript
+* React
+* Bootstrap
+* Ruby
+* Ruby on Rails
+* Python
 
 ### 📫 GET IN TOUCH 
 <a href="https://www.linkedin.com/in/amie-n-foster/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg"/></a>    
