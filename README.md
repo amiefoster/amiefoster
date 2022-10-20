@@ -8,6 +8,8 @@
 * Ruby on Rails
 * Python
 
+[Check out my portfolio!](https://amie-foster.com/)
+
 ### 📫 GET IN TOUCH 
 <a href="https://www.linkedin.com/in/amie-n-foster/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg"/></a>    
 <a href='https://medium.com/@amie.n.foster'><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/medium.svg" /></a>    
