@@ -1,6 +1,6 @@
-## Hi, I'm Amie 👋
+# Hi, I'm Amie 👋
 
-# Software Engineer 👩‍💻 
+### Software Engineer 👩‍💻 
 * Javascript
 * React
 * Bootstrap
